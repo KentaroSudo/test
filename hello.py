@@ -1,2 +1,2 @@
-message = "Hello World! Git"
+message = "Hello World! GitHub TeraData!"
 print(message) 
