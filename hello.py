@@ -1,2 +1,2 @@
-message = "Hello World! TeraData! Thank you! Congratuations!"
+message = "Hello World! Hello Teradata!"
 print(message) 
